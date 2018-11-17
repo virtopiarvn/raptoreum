@@ -17,7 +17,9 @@ Raptoreum makes the move over to ProgPow which gains ASIC resistance not through
 
 ## Scaling
 
-Moving the handling of smart contracts in every regard instead of adding them into blocks takes the stress and congestion created by them off the chain resulting in a blockchain that is much harder to congest and consistent low tx fees. Also this method allows us to allow larger smart contact size as well as increase the number of languages (programming) that are accepted.
+Moving the handling of smart contracts in every regard instead of adding them into blocks takes the stress and congestion created by them off the chain resulting in a blockchain that is much harder to congest and consistent low tx fees. Also this method allows us to allow larger smart contact size as well as increase the number of languages (programming) that are accepted. <further detail needed @tri)>
 
-##Links
+
+
+Links
 [1]. https://github.com/ifdefelse/ProgPOW
