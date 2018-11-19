@@ -1,6 +1,8 @@
 
 # Raptoreum: Combining Smart Contracts and Ravencoins Assets For Automated Trustless Transfers
 
+*Raptoreum the name is derived from a melding of Ravencoin (Ravens are considered an honorary Raptor) and Ethereum due to the fact that we are adding smart contracts.*
+
 ## Introduction:
 Raptoreum is being designed to be a melding of Ravencoin and Smart Contracts, in doing so bringing together the strengths of Ravencoin and Smart Contracts into a very powerful, flexible, and secure platform. Ravencoins asset feature is extremely powerful while being easier to use then Ethereums smart contracts. This opens up further and great potential for the asset system, DAPP developers will now have the benefits of both Ravencoin and Smart Contracts on a platform that scales seamlessly and offers greater flexibility.
 
@@ -19,7 +21,10 @@ Raptoreum makes the move over to ProgPow which gains ASIC resistance not through
 
 Moving the handling of smart contracts in every regard instead of adding them into blocks takes the stress and congestion created by them off the chain resulting in a blockchain that is much harder to congest and consistent low tx fees. Also this method allows us to allow larger smart contact size as well as increase the number of languages (programming) that are accepted. <further detail needed @tri)>
 
+## Trustless Transfers And Automation
 
+Ravencoin does not have the ability to automates asset transfers without a "trusted" third party being involved which eliminates its use in DAPPs( Decentralized Applications) and greatly reduces its market reach and size. Raptoreum adding smart contracts adds this ability and opens the doors to massive application through DAPPs. Assets can be transferred in a fully automated fashion as defined by the smart contract and in a trustless way.
 
+## Use Cases
 Links
 [1]. https://github.com/ifdefelse/ProgPOW
