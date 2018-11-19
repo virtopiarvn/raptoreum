@@ -2,7 +2,7 @@
 # Raptoreum: Combining Smart Contracts and Ravencoins Assets For Automated Trustless Transfers
 
 ## Introduction:
-Raptoreum is being designed to be a melding of Ravencoin and Smart Contracts, in doing so bringing together the strengths of Ravencoin and Ethereum into a very powerful, flexible, and secure platform. Ravencoins asset feature is extremely powerful while being easier to use then Ethereums smart contracts. This opens up further and great potentail for the asset system, DAPP developers will now have the benefits of bot Ravencoin and Smart Contracts on a platform that scales seamlessly and offers greater flexibility.
+Raptoreum is being designed to be a melding of Ravencoin and Smart Contracts, in doing so bringing together the strengths of Ravencoin and Smart Contracts into a very powerful, flexible, and secure platform. Ravencoins asset feature is extremely powerful while being easier to use then Ethereums smart contracts. This opens up further and great potential for the asset system, DAPP developers will now have the benefits of both Ravencoin and Smart Contracts on a platform that scales seamlessly and offers greater flexibility.
 
 Asset and sub-asset issuance which are guaranteed to be unique names, paying dividends to holders, voting, and even messaging are possible. In addition these asstes cannot be accidentally destroyed unlike a Ethereum smart contract. But, Ravencoin assets are missing the ability to be traded trustlessly other then directly from person to person, unlike Ethereums smart contracts.
 
